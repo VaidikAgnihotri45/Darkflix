@@ -1,17 +1,34 @@
 # 🎬 Darkflix
 
-Darkflix is a modern Netflix-inspired entertainment platform built with React, TypeScript, Vite, and Tailwind CSS. It provides an engaging user experience for discovering movies and TV shows through a sleek dark-themed interface.
+Darkflix is a modern Netflix-inspired entertainment platform designed to deliver an immersive movie and entertainment browsing experience. Built with React, TypeScript, Vite, and Tailwind CSS, the platform features a sleek dark-themed interface, responsive design, and interactive user experience.
+
+## 🌐 Live Demo
+
+**Live Website:** https://symphonious-moxie-bb53b2.netlify.app/auth
+
+### Demo Login
+
+**Email:** [demo@darkflix.com](mailto:demo@darkflix.com)
+**Password:** Demo@123
+
+---
 
 ## 🚀 Features
 
 * 🎥 Netflix-inspired modern UI
+* 🔐 User Authentication System
 * 🔍 Movie and TV show search functionality
-* 🎞️ Interactive movie cards
+* 🎞️ Interactive movie cards with hover effects
 * 📄 Detailed movie information pages
-* 🎨 Responsive dark-themed design
-* ⚡ Fast performance with Vite
-* 📱 Mobile-friendly interface
-* 🎯 Smooth user experience
+* ❤️ Wishlist management
+* 🕒 Watch history tracking
+* 🎬 Trailer integration
+* 🎨 Fully responsive dark-themed design
+* ⚡ Fast performance powered by Vite
+* 📱 Mobile-friendly user experience
+* 🎯 Smooth navigation and modern animations
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -26,6 +43,10 @@ Darkflix is a modern Netflix-inspired entertainment platform built with React, T
 
 * ESLint
 * npm
+* Git
+* GitHub
+
+---
 
 ## 📂 Project Structure
 
@@ -38,6 +59,8 @@ src/
 ├── App.tsx
 └── main.tsx
 ```
+
+---
 
 ## ⚙️ Installation & Setup
 
@@ -71,22 +94,30 @@ npm run dev
 npm run build
 ```
 
+---
+
 ## 🎯 Future Enhancements
 
-* User Authentication
-* Watchlist Feature
-* Movie Ratings & Reviews
-* Personalized Recommendations
-* Trailer Integration
-* Multi-language Support
+* AI-powered movie recommendations
+* User profile customization
+* Social sharing features
+* Advanced filtering options
+* Multi-language support
+* Backend integration with database
+* Real-time trending content
+
+---
 
 ## 👨‍💻 Author
 
 **Vaidik Agnihotri**
 
-* GitHub: https://github.com/VaidikAgnihotri45
-* LinkedIn: [www.linkedin.com/in/vaidik-agnihotri](http://www.linkedin.com/in/vaidik-agnihotri)
+GitHub: https://github.com/VaidikAgnihotri45
+
+LinkedIn: https://www.linkedin.com/in/vaidik-agnihotri
+
+---
 
 ## ⭐ Support
 
-If you like this project, consider giving it a star on GitHub.
+If you found this project helpful, please consider giving it a ⭐ on GitHub.
