@@ -4,7 +4,7 @@ Darkflix is a modern Netflix-inspired entertainment platform designed to deliver
 
 ## 🌐 Live Demo
 
-**Live Website:** https://symphonious-moxie-bb53b2.netlify.app/auth
+**Live Website:** https://symphonious-moxie-bb53b2.netlify.app/
 
 ### Demo Login
 
